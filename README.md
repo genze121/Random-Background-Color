@@ -15,3 +15,5 @@ Screenshot - 2
 ![Screenshot 2024-08-15 214054](https://github.com/user-attachments/assets/02864b67-1157-4b3f-94ed-24641431d3e6)
 
 <hr>
+
+Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
